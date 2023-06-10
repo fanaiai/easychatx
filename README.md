@@ -1,6 +1,7 @@
 # easychatx
 1.  easychatx一款免费的，无需魔法，Android端App
 2.  目前接入的是gpt3.5,gpt4.0正在努力
+3.  ![RUNOOB 打赏码](https://github.com/fanaiai/easychatx/blob/main/f5fc8cf8f1d7981f55b893ba63c0dbc.jpg)
 # 使用方法
 1.  下载 app-release.apk 到手机
 2.  由于未上架到应用市场，所以安装时需要单次授权
