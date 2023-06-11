@@ -1,10 +1,11 @@
 # easychatx
-1.  easychatx一款免费的，无需魔法，Android端App
+1.  easychatx一款免费的，无需魔法，Android端App,Windows端应用 chatgpt
 2.  目前接入的是gpt3.5,gpt4.0正在努力
 4.  ![](https://gitee.com/xiannvzuo/easychatx/raw/main/f5fc8cf8f1d7981f55b893ba63c0dbc.jpg)
 # 使用方法
 1.  下载 app-release.apk 到手机
 2.  由于未上架到应用市场，所以安装时需要单次授权
+3.  windows版本直接下载Window.zip执行exe文件即可
 # 说明
 感谢您使用我们的应用程序！使用前请务必仔细阅读免责声明
 1. 本应用程序为个人开发项目，仅供个人使用和参考。我们尽力确保应用程序的准确性和可靠性，但不对任何直接或间接的损失或损害负责。
